@@ -27,3 +27,7 @@ CUDA_VISIBLE_DEVICES=0 python main.py --workdir=./ --config=configs/default.py
 ## Post-processing
 You can use the provided notebooks (e.g. *postprocess.ipynb* or *comparisons.ipynb*) to load a trained model, evaluate its performance, plot results, etc.
 
+
+## Data-sets and checkpoints
+You can download all data-sets and trained model checkpoints [here](https://drive.google.com/file/d/1w_b8uHXSl2d_PkMHC2GufR7LnGM6l_xT/view?usp=share_link).
+
