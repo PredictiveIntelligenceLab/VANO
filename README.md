@@ -18,7 +18,7 @@ pip3 install --upgrade -r requirements.txt
 
 ## Training
 
-Using the GRF benchmark as an example, you can train a model as
+Using the GRF benchmark as an example, you can train a VANO model as
 ```
 cd ./grf_1d/
 CUDA_VISIBLE_DEVICES=0 python main.py --workdir=./ --config=configs/default.py
