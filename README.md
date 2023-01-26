@@ -25,5 +25,5 @@ CUDA_VISIBLE_DEVICES=0 python main.py --workdir=./ --config=configs/default.py
 ```
 
 ## Post-processing
-You can use the provided notebooks (e.g. ./*/postprocess.ipynb or ./*/comparisons.ipynb) to load a trained model, evaluate its performance, plot results, etc.
+You can use the provided notebooks (e.g. *postprocess.ipynb* or *comparisons.ipynb*) to load a trained model, evaluate its performance, plot results, etc.
 
