@@ -3,7 +3,7 @@
 
 ![master_figure-2](https://user-images.githubusercontent.com/3844367/214755990-dd375c41-4708-4590-a86c-14f88db07b9e.png)
 
-This repository contains code and data accompanying the manuscript titled "Variational Autoencoding Neural Operators", authored by Jacob Seidman, Georgios Kissas, George Pappas and Paris Perdikaris.
+This repository contains code and data accompanying the manuscript titled "Variational Autoencoding Neural Operators".
 
 ## Abstract
 
