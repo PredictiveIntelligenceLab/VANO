@@ -109,8 +109,7 @@ def train_and_evaluate(config: ml_collections.ConfigDict, workdir: str):
     wandb_config = config.wandb
     wandb.init(project=wandb_config.project,
                name=wandb_config.name,
-               config=dict(config),
-               entity='team_nomad')
+               config=dict(config))
 
     print(local_devices())
 
